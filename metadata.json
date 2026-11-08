@@ -1,0 +1,6 @@
+{
+  "name": "MONO Tube CMS",
+  "description": "High-performance black and white video CMS and streaming platform featuring 5-column browsing, sleek sidebar navigation, optimized search, and creator management studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
